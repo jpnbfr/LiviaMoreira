@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Camada_1"
+   data-name="Camada 1"
+   version="1.1"
+   viewBox="0 0 233.38 242.32"
+   sodipodi:docname="babi.svg"
+   width="233.38"
+   height="242.32001"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview23"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="3.2786236"
+     inkscape:cx="116.81731"
+     inkscape:cy="170.19337"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Camada_1" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">
+      .cls-1 {
+        fill: #000;
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #f70000;
+        stroke-miterlimit: 10;
+        stroke-width: 2.12px;
+      }
+    </style>
+  </defs>
+  <path
+     class="cls-1"
+     d="m 89.99,62.44 -8.37,-3.32 7.91,-4.33 C 98.76,49.74 103.25,42.04 103.25,31.25 103.25,11.27 90.87,1.96 64.31,1.96 H 0.48 v 114.27 h 67.71 c 26.56,0 38.93,-9.3 38.93,-29.28 0,-11.75 -5.77,-19.99 -17.13,-24.51 z M 26.55,20.42 h 34.86 c 10.69,0 16.28,7.41 16.28,14.73 0,7.32 -5.59,14.72 -16.28,14.72 H 26.55 Z m 38.8,77.36 H 26.55 V 68.32 h 38.8 c 10.68,0 16.27,7.41 16.27,14.73 0,7.32 -5.59,14.73 -16.27,14.73 z"
+     id="path6" />
+  <path
+     class="cls-1"
+     d="m 166.35,188.52 -8.22,-3.32 7.74,-4.31 c 9,-5.02 13.57,-12.94 13.57,-23.55 0,-19.98 -12.37,-29.29 -38.93,-29.29 H 0 v 114.27 h 144.4 c 26.56,0 38.93,-9.36 38.93,-29.46 0,-11.61 -5.72,-19.8 -16.99,-24.34 z M 26.07,146.33 h 112.3 c 10.36,0 15.78,7.45 15.78,14.81 0,7.36 -5.42,14.81 -15.78,14.81 H 26.07 Z m 116.29,77.54 H 26.07 v -29.63 h 116.28 c 10.36,0 15.78,7.45 15.78,14.81 0,7.36 -5.42,14.82 -15.78,14.82 z"
+     id="path8" />
+  <path
+     class="cls-1"
+     d="m 194.7,81.05 11.96,34.54 h 26.15 L 195.62,1.32 h -47.69 l -37.2,114.27 h 26.81 l 11.45,-34.5 45.71,-0.03 z M 171.4,19.77 187.94,62.6 h -32.97 z"
+     id="path10" />
+  <rect
+     class="cls-1"
+     x="207.31001"
+     y="128.05"
+     width="26.07"
+     height="114.27"
+     id="rect12" />
+  <path
+     class="cls-2"
+     d="M 201.02,118.92"
+     id="path14" />
+  <path
+     class="cls-2"
+     d="M 162.83,1.85"
+     id="path16" />
+  <path
+     class="cls-2"
+     d="M 174,0"
+     id="path18" />
+  <path
+     class="cls-2"
+     d="M 136.15,117.17"
+     id="path20" />
+</svg>
