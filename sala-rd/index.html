@@ -43,7 +43,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 /*# sourceURL=global-styles-inline-css */
 </style>
 
-<link rel="stylesheet" id="contact-form-7-css" href="css/styles.css" type="text/css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="/css/styles.css" type="text/css" media="all">
 <link rel="https://api.w.org/" href="https://babiteixeira.com.br/wp-json/"><link rel="alternate" title="JSON" type="application/json" href="https://babiteixeira.com.br/wp-json/wp/v2/pages/13"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://babiteixeira.com.br/xmlrpc.php?rsd">
 <meta name="generator" content="WordPress 6.9.1">
 <link rel="canonical" href="https://livia-moreira.vercel.app/projetos/">
@@ -107,8 +107,8 @@ font-size:6rem !important;
     <link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png">
     <link rel="manifest" href="https://babiteixeira.com.br/wp-content/themes/theme/favicon/site.webmanifest">
-    <link rel="stylesheet" href="css/normalize.css">
-    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="/css/normalize.css">
+    <link rel="stylesheet" href="/css/main.css">
 </head>
 
 <body data-rsssl="1">
@@ -133,7 +133,7 @@ font-size:6rem !important;
                 <h1>
                     Babi Teixeira
                     <a href="https://babiteixeira.com.br">
-                        <img src="images/logo topo.png" alt="Livia Moreira">
+                        <img src="/images/logo topo.png" alt="Livia Moreira">
                     </a>
                 </h1>
             </div>
@@ -186,60 +186,36 @@ font-size:6rem !important;
             <aside id="sticky-aside">
                 <h5>Projetos</h5>
                 <ul class="categorias">
-                                                                                            <li><a href="https://livia-moreira.vercel.app/projetos/" class="active">Residenciais</a></li>
+                                                                                            <li><a href="https://livia-moreira.vercel.app/projetos" class="active">Residenciais</a></li>
                                                             </ul>
             </aside>
 
             <div class="block-gallery">
-                <div class="grid-container">
-                                            <div class="hide">
-                            <a href="https://livia-moreira.vercel.app/sala-rd">
-                                <img src="images/Home2_1920_07.jpg" alt="">
-                            </a>
-                            <h4 class="nome-projeto">Casa DC</h4>
-                        </div>
-                                            <div class="hide">
-                            <a href="https://babiteixeira.com.br/projects/apto-me/">
-                                <img src="images/Home2_1920_02.jpg" alt="">
-                            </a>
-                            <h4 class="nome-projeto">APTO ME</h4>
-                        </div>
-                                            <div class="hide">
-                            <a href="https://babiteixeira.com.br/projects/apartamento-rd/">
-                                <img src="images/Home2_1920_121.png" alt="">
-                            </a>
-                            <h4 class="nome-projeto">APTO RD</h4>
-                        </div>
-                                            <div class="hide">
-                            <a href="https://babiteixeira.com.br/projects/apartamento-ah/">
-                                <img src="images/B0A5639-1.jpg" alt="">
-                            </a>
-                            <h4 class="nome-projeto">APTO AH</h4>
-                        </div>
-                                            <div class="hide">
-                            <a href="https://babiteixeira.com.br/projects/apto-bp/">
-                                <img src="images/240528-AP-VENANCIO-FLORES-001-scaled.jpg" alt="">
-                            </a>
-                            <h4 class="nome-projeto">Apto BP</h4>
-                        </div>
-                                            <div class="hide">
-                            <a href="https://babiteixeira.com.br/projects/apto-rb/">
-                                <img src="images/241107-AP-EPITACIO-0002-scaled.jpg" alt="">
-                            </a>
-                            <h4 class="nome-projeto">Apto RB</h4>
-                        </div>
-                                            <div class="hide">
-                            <a href="https://babiteixeira.com.br/projects/apto-tj/">
-                                <img src="images/CA_2693-1-scaled.jpg" alt="">
-                            </a>
-                            <h4 class="nome-projeto">APTO TJ</h4>
-                        </div>
-                                            
+        <div class="container">
+            <div class="grid-container">
+                                    <div>
+                        <a data-fslightbox="gallery" data-alt="sala-rd" href="/sala-rd/1.png">
+                            <img src="/sala-rd/1.png" alt="">
+                        </a>
                     </div>
-            </div>
-
+                               <div>
+                        <a data-fslightbox="gallery" data-alt="sala-rd" href="/sala-rd/2.png">
+                            <img src="/sala-rd/2.png" alt="">
+                        </a>
+                    </div>
+                               <div>
+                        <a data-fslightbox="gallery" data-alt="sala-rd" href="/sala-rd/3.png">
+                            <img src="/sala-rd/3.png" alt="">
+                        </a>
+                    </div>
+                               <div>
+                        <a data-fslightbox="gallery" data-alt="sala-rd" href="/sala-rd/4.png">
+                            <img src="/sala-rd/4.png" alt="">
+                        </a>
+                    </div>
+                            </div>
         </div>
-    </section>
+    </div>
 
     <div class="wp-block-spacer" style="height: 450px;"></div>
 </main>
@@ -271,15 +247,15 @@ font-size:6rem !important;
     <script type="speculationrules">
 {"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/theme/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
 </script>
-<script type="text/javascript" src="js/hooks.min.js" id="wp-hooks-js"></script>
-<script type="text/javascript" src="js/i18n.min.js" id="wp-i18n-js"></script>
+<script type="text/javascript" src="/js/hooks.min.js" id="wp-hooks-js"></script>
+<script type="text/javascript" src="/js/i18n.min.js" id="wp-i18n-js"></script>
 <script type="text/javascript" id="wp-i18n-js-after">
 /* <![CDATA[ */
 wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
 //# sourceURL=wp-i18n-js-after
 /* ]]> */
 </script>
-<script type="text/javascript" src="js/index.js" id="swv-js"></script>
+<script type="text/javascript" src="/js/index.js" id="swv-js"></script>
 <script type="text/javascript" id="contact-form-7-js-before">
 /* <![CDATA[ */
 var wpcf7 = {
@@ -291,7 +267,7 @@ var wpcf7 = {
 //# sourceURL=contact-form-7-js-before
 /* ]]> */
 </script>
-<script type="text/javascript" src="js/index_1.js" id="contact-form-7-js"></script>
+<script type="text/javascript" src="/js/index_1.js" id="contact-form-7-js"></script>
 <script id="wp-emoji-settings" type="application/json">
 {"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://babiteixeira.com.br/wp-includes/js/wp-emoji-release.min.js?ver=6.9.1"}}
 </script>
@@ -307,11 +283,11 @@ const a=JSON.parse(document.getElementById("wp-emoji-settings").textContent),o=(
         <a href="https://www.instagram.com/livsmoreira/" target="_blank">by Jony Sofri</a>
     </div> -->
 
-    <script src="js/jquery.min.js"></script>
-    <script src="js/justifiedGallery.min.js"></script>
-    <script src="js/fslightbox.js"></script>
-    <script src="js/gsap.min.js"></script>
-    <script src="js/theme.js"></script>
+    <script src="/js/jquery.min.js"></script>
+    <script src="/js/justifiedGallery.min.js"></script>
+    <script src="/js/fslightbox.js"></script>
+    <script src="/js/gsap.min.js"></script>
+    <script src="/js/theme.js"></script>
 
 
 
